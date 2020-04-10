@@ -1,0 +1,3 @@
+screen off : #6D5F66FF
+
+screen on : #E7E7E7FF
