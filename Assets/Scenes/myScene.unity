@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18028378, g: 0.22571412, b: 0.30692285, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028334, g: 0.2257134, b: 0.30692226, a: 1}
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
@@ -1994,31 +1994,31 @@ Prefab:
     m_Modifications:
     - target: {fileID: 400000, guid: fcfffeb6df10e9a41809549501f34d1f, type: 2}
       propertyPath: m_LocalPosition.x
-      value: -3.5
+      value: -3.3379045
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: fcfffeb6df10e9a41809549501f34d1f, type: 2}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 0.92964554
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: fcfffeb6df10e9a41809549501f34d1f, type: 2}
       propertyPath: m_LocalPosition.z
-      value: -2.12
+      value: -3.0167117
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: fcfffeb6df10e9a41809549501f34d1f, type: 2}
       propertyPath: m_LocalRotation.x
-      value: -0.7071069
+      value: 0.07043039
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: fcfffeb6df10e9a41809549501f34d1f, type: 2}
       propertyPath: m_LocalRotation.y
-      value: -0
+      value: -0.096056715
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: fcfffeb6df10e9a41809549501f34d1f, type: 2}
       propertyPath: m_LocalRotation.z
-      value: -0
+      value: 0.14805092
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: fcfffeb6df10e9a41809549501f34d1f, type: 2}
       propertyPath: m_LocalRotation.w
-      value: 0.70710677
+      value: 0.9817808
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: fcfffeb6df10e9a41809549501f34d1f, type: 2}
       propertyPath: m_RootOrder
@@ -2039,6 +2039,18 @@ Prefab:
     - target: {fileID: 100000, guid: fcfffeb6df10e9a41809549501f34d1f, type: 2}
       propertyPath: m_Name
       value: Plant (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: fcfffeb6df10e9a41809549501f34d1f, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 9.598001
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: fcfffeb6df10e9a41809549501f34d1f, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -9.7960005
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: fcfffeb6df10e9a41809549501f34d1f, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 16.327002
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: fcfffeb6df10e9a41809549501f34d1f, type: 2}
